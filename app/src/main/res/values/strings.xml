@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProyectoActivity1</string>
+    <string name="titulo">UniversidadSAS</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="documnto">Documento</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="pais">Pais</string>
+    <string name="fecha_nac">Fecha Nacimiento</string>
+    <string name="fecha_ing">Fecha Ingreso</string>
+    <string name="fecha_egre">Fecha de Egreso</string>
+    <string name="fech_primer_mat">Fecha primer matricula</string>
+
+</resources>
